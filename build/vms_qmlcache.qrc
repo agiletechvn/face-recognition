@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="fonts/fontawesome-webfont.ttf">../../topvas-vms-ui/fonts/fontawesome-webfont.ttf</file>
+        <file alias="fonts/Roboto-Light.ttf">../../topvas-vms-ui/fonts/Roboto-Light.ttf</file>
+        <file alias="fonts/Roboto-Regular.ttf">../../topvas-vms-ui/fonts/Roboto-Regular.ttf</file>
+        <file alias="fonts/Roboto-Bold.ttf">../../topvas-vms-ui/fonts/Roboto-Bold.ttf</file>
+        <file alias="fonts/UTM-AvoBold.ttf">../../topvas-vms-ui/fonts/UTM-AvoBold.ttf</file>
+        <file alias="qtquickcontrols2.conf">../../topvas-vms-ui/qtquickcontrols2.conf</file>
+        <file alias="images/avatars/0cb28310-e52b-45e7-a780-a2468b50bc98.jpg">../../topvas-vms-ui/images/avatars/0cb28310-e52b-45e7-a780-a2468b50bc98.jpg</file>
+        <file alias="images/avatars/0f53eabd-177f-46a5-a5f0-50e8cdb52a50.jpg">../../topvas-vms-ui/images/avatars/0f53eabd-177f-46a5-a5f0-50e8cdb52a50.jpg</file>
+        <file alias="images/avatars/0fd0a223-c09c-4301-9279-804e1ad8080c.jpg">../../topvas-vms-ui/images/avatars/0fd0a223-c09c-4301-9279-804e1ad8080c.jpg</file>
+    </qresource>
+</RCC>
